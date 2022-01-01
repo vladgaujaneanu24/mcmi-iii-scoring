@@ -1,0 +1,6 @@
+name: mcmi-iii-scoring
+org: vladgaujaneanu24
+description: Deploys a Node HTTP API service with Serverless Framework and Typescript
+keywords: aws, serverless, faas, lambda, node, typescript
+repo: https://github.com/vladgaujaneanu24/mcmi-iii-scoring.git
+license: ISC
